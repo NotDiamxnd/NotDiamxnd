@@ -9,6 +9,6 @@ My name is Archie and I try to do web development projects.
 - 🎶 I enjoy listening to rock and modern R&B
 
 **Connections:** 🔗
-- Discord: @NotDiamxnd
+- Discord: @arch_ie
 - Email: archiechapmannn@gmail.com
 
